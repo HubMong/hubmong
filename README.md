@@ -14,15 +14,15 @@
 * Frameworks & Technologies
   * Spring, Node.js
 
-## Field of interest
+## 🔎 Field of interest
 * Reversing
 * Webhacking
 * Pwnable
 
-## Project
+## 📁 Project
 * CAPSTONE DESIGN - A pill ingredient analysis and nutritional recommendations review
 
-## Reading list
+## 📚 Reading list
 * 리버싱 핵심 원리
 * 파이썬 데이터 분석 및 시각화
 * 명품 자바 에센셜
