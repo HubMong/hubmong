@@ -1,5 +1,5 @@
 ## Hi there👋
-* [Tistory](https://gonggitdol.tistory.com/)
+* [DreamHack](https://velog.io/@m0ng/posts)
 * [DreamHack](https://dreamhack.io/mypage)
 * Email : ago002006@naver.com
 
