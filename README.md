@@ -4,7 +4,8 @@
 * Email : ago002006@naver.com
 
 ## 🎓 Education 🎓
-* 서일대학교 - 소프트웨어학과
+* 2016.03 ~ 2019.02 Yongseok High School 
+* 2019.03 ~ SEOIL UNIVERSITY Department of Software Engineering
 
 ## 💻 Skills
 * Languages
@@ -13,6 +14,6 @@
   * Spring, Node.js
 
 ## Project
-* 캡스톤 디자인 - 알약 성분 분석 및 영양제 추천 리뷰
+* CAPSTONE DESIGN - A pill ingredient analysis and nutritional recommendations review
 
 
