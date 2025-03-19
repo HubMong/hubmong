@@ -1,7 +1,6 @@
-## Hi there👋
-* [velog](https://velog.io/@m0ng/posts)
-* [DreamHack](https://dreamhack.io/mypage)
-* Email : ago002006@naver.com
+## SangYeon KIM👋
+### Hello & Wellcome
+* I am a developer who is on a journey to become an information security expert.
 
 ## 🎓 Education 🎓
 * 2016.03 ~ 2019.02 Yongseok High School
