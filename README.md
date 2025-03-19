@@ -8,9 +8,9 @@
 
 ## 💻 Skills
 * Languages
-** Python, Java, C#, Assembly
+  * Python, Java, C#, Assembly
 * Frameworks & Technologies
-** Spring, Node.js
+  * Spring, Node.js
 
 ## Project
 * 캡스톤 디자인 - 알약 성분 분석 및 영양제 추천 리뷰
