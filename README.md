@@ -1,13 +1,16 @@
 ## Hi there 👋
+Email : ago002006@naver.com
+<br>Blog : https://gonggitdol.tistory.com/ </br>
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+## 🎓 Education 🎓
+서일대학교 - 소프트웨어학과
 
+## 💻 Skills
+Languages
+Python, Java, C#, Assembly
+Frameworks & Technologies
+Spring, Node.js
 
-🎓 Education 🎓
-seoil university - Department of Computer Science and Engineering
+## Project
+캡스톤 디자인 - 알약 성분 분석 및 영양제 추천 리뷰
 
-💻 Skills
-    Languages
-        Python, Java, C#, Assembly
-    Frameworks & Technologies
-        Spring, Node.js
