@@ -20,7 +20,8 @@
 * Pwnable
 
 ## 📁 Project
-* CAPSTONE DESIGN - A pill ingredient analysis and nutritional recommendations review
+* CAPSTONE DESIGN - Pill ingredient analysis and nutritional recommendations review
+* Team Project Arduino - Smart medicine bottle
 
 ## 📚 Reading list
 * 리버싱 핵심 원리
