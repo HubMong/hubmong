@@ -7,8 +7,7 @@
 seoil university - Department of Computer Science and Engineering
 
 💻 Skills
-
     Languages
-        Python, Java, C#, Asm
+        Python, Java, C#, Assembly
     Frameworks & Technologies
         Spring, Node.js
