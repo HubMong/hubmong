@@ -1,5 +1,5 @@
 ## Hi there👋
-* [DreamHack](https://velog.io/@m0ng/posts)
+* [velog](https://velog.io/@m0ng/posts)
 * [DreamHack](https://dreamhack.io/mypage)
 * Email : ago002006@naver.com
 
