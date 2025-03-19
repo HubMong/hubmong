@@ -16,4 +16,7 @@
 ## Project
 * CAPSTONE DESIGN - A pill ingredient analysis and nutritional recommendations review
 
+## Reading list
+* 리버싱 핵심 원리
+* 
 
