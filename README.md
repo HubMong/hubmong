@@ -16,7 +16,8 @@
 ## 🔎 Field of interest
 * Reversing
 * Webhacking
-* Pwnable
+* Java
+* Spring
 
 ## 📁 Project
 * CAPSTONE DESIGN - Pill ingredient analysis and nutritional recommendations review
