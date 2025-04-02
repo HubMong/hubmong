@@ -9,7 +9,7 @@
 
 ## 💻 Skills
 * Languages
-  * Java, C#, C , Assembly
+  * Java, C#, Assembly
 * Frameworks & Technologies
   * Spring, Node.js
 
