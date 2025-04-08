@@ -9,12 +9,11 @@
 <details>
 <summary>🖥️ Languages</summary>
 &emsp;<details>
-<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java</summary>
-&emsp;객체지향 언어로 웹, 서버, 모바일(안드로이드) 개발에 널리 사용됩니다.
+&emsp;<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java</summary>
+객체지향 언어로 웹, 서버, 모바일(안드로이드) 개발에 널리 사용됩니다.
 </details>
 &emsp;<details>
-<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#</summary>
-&emsp;.NET 플랫폼 기반 언어로 윈도우 앱, Unity 게임, 웹 백엔드 등에 활용됩니다.
+&emsp;<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#</summary>
 </details>
 &emsp;<details>
 <summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Assembly</summary>
