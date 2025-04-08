@@ -5,34 +5,40 @@
 ## 🎓 Education 🎓
 * 2016.03 ~ 2019.02 Institute of Information Security Education for the Gifted 
 * 2019.03 ~ SEOIL UNIVERSITY Department of Software Engineering
+
 ## 💻 Skills
+
 <details>
 <summary>🖥️ Languages</summary>
-&emsp;<details>
-&emsp;<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<summary>Java</summary>
 객체지향 언어로 웹, 서버, 모바일(안드로이드) 개발에 널리 사용됩니다.
 </details>
-&emsp;<details>
-&emsp;<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<summary>C#</summary>
+.NET 기반으로 Windows 애플리케이션, 게임 개발(Unity), 웹 서버 등에 활용됩니다.
 </details>
-&emsp;<details>
-<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Assembly</summary>
-&emsp;CPU 명령어 수준의 저수준 언어로, 하드웨어 제어와 성능 최적화에 사용됩니다.  
-&emsp;(Assembly는 고유 로고가 없어서 Linux 로고로 대체)
+
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<summary>Assembly</summary>
+하드웨어 제어나 성능 최적화 등 저수준 프로그래밍에 사용되는 언어입니다.
 </details>
 </details>
----
+
 <details>
 <summary>🧰 Frameworks & Technologies</summary>
-&emsp;<details>
-<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> Spring</summary>
-&emsp;Java 기반의 강력한 웹 프레임워크로, MVC 아키텍처, 의존성 주입(DI), 보안, 트랜잭션 관리 등을 지원합니다.
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<summary>Spring</summary>
+Java 기반 웹 프레임워크로, MVC 아키텍처와 DI, AOP 등 다양한 기능을 지원합니다.
 </details>
-&emsp;<details>
-<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js</summary>
-&emsp;JavaScript 기반의 서버 사이드 런타임 환경으로, 비동기 I/O 처리에 강하고 REST API 서버 구축에 많이 사용됩니다.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<summary>Node.js</summary>
+JavaScript 런타임 환경으로 비동기 I/O 처리와 RESTful API 서버 구축에 활용됩니다.
 </details>
 </details>
+
 
 ## 🔎 Field of interest
 * Reversing
