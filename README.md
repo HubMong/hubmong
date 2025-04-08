@@ -15,7 +15,7 @@
 객체지향 언어로 웹, 서버, 모바일(안드로이드) 개발에 널리 사용됩니다.
 </details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<details>
 <summary>C#</summary>
 .NET 기반으로 Windows 애플리케이션, 게임 개발(Unity), 웹 서버 등에 활용됩니다.
 </details>
