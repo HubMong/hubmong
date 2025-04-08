@@ -7,10 +7,24 @@
 * 2019.03 ~ SEOIL UNIVERSITY Department of Software Engineering
 
 ## 💻 Skills
-* Languages
-  * Java, C#, Assembly
-* Frameworks & Technologies
-  * Spring, Node.js
+
+<details>
+<summary>Languages</summary>
+
+* Java  
+* C#  
+* Assembly  
+
+</details>
+
+<details>
+<summary>Frameworks & Technologies</summary>
+
+* Spring  
+* Node.js  
+
+</details>
+
 
 ## 🔎 Field of interest
 * Reversing
