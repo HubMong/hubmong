@@ -3,7 +3,6 @@
 * I am a developer who is on a journey to become an information security expert.
 
 ## 🎓 Education 🎓
-* 2016.03 ~ 2019.02 Yongseok High School
 * 2016.03 ~ 2019.02 Institute of Information Security Education for the Gifted 
 * 2019.03 ~ SEOIL UNIVERSITY Department of Software Engineering
 
@@ -21,7 +20,6 @@
 
 ## 📁 Project
 * CAPSTONE DESIGN - Pill ingredient analysis and nutritional recommendations review
-* Team Project Arduino - Smart medicine bottle
 
 ## 📚 Reading list
 * 리버싱 핵심 원리
