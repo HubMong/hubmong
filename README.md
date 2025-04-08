@@ -7,23 +7,24 @@
 * 2019.03 ~ SEOIL UNIVERSITY Department of Software Engineering
 
 ## 💻 Skills
-<details>
-<summary>🖥️ Languages</summary>
+## 💻 Skills
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+<details>
+<summary>📚 Languages</summary>
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://velog.io/@m0ng/posts?tag=Java-Note)  
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+[![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
 </details>
 
 <details>
 <summary>🧰 Frameworks & Technologies</summary>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 </details>
-
 
 ## 🔎 Field of interest
 * Reversing
