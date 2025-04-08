@@ -7,33 +7,23 @@
 * 2019.03 ~ SEOIL UNIVERSITY Department of Software Engineering
 
 ## 💻 Skills
-
 <details>
 <summary>🖥️ Languages</summary>
-<details>
-<summary>Java</summary>
-객체지향 언어로 웹, 서버, 모바일(안드로이드) 개발에 널리 사용됩니다.
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
 </details>
-<details>
-<summary>C#</summary>
-.NET 기반으로 Windows 애플리케이션, 게임 개발(Unity), 웹 서버 등에 활용됩니다.
-</details>
-<details>
-<summary>Assembly</summary>
-하드웨어 제어나 성능 최적화 등 저수준 프로그래밍에 사용되는 언어입니다.
-</details>
-</details>
+
 <details>
 <summary>🧰 Frameworks & Technologies</summary>
-<details>
-<summary>Spring</summary>
-Java 기반 웹 프레임워크로, MVC 아키텍처와 DI, AOP 등 다양한 기능을 지원합니다.
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 </details>
-<details>
-<summary>Node.js</summary>
-JavaScript 런타임 환경으로 비동기 I/O 처리와 RESTful API 서버 구축에 활용됩니다.
-</details>
-</details>
+
 
 ## 🔎 Field of interest
 * Reversing
