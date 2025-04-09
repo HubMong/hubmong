@@ -12,7 +12,7 @@
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://velog.io/@m0ng/posts?tag=Java-Note)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://velog.io/@m0ng/posts)
-[![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://velog.io/@m0ng/posts)
+[![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://velog.io/@m0ng/posts?tag=reversing)
 
 </details>
 
