@@ -1,4 +1,4 @@
-<h3 class="heading-element" dir="auto">Hellow Github</h3>
+<h3 class="heading-element" dir="auto">코드 속 숨겨진 이야기들을 찾아서</h3>
 정보보안 전문가를 희망하고 있고 Java 웹 개발자도 관심있는 김상연입니다.<br>
 특히 정보보안 분야에 리버싱에 대해 흥미를 느끼고 있습니다.<br>
 파일 분석을 통해 프로그램의 동작 원리를 이해하고 숨겨진 취약점을 찾아내는 과정은 마치 퍼즐을 푸는 듯한 짜릿함을 선사합니다.<br>
