@@ -44,6 +44,8 @@
 <details>
 <summary>🧰 기술</summary><br>
 
+<div style="margin-left: 1rem">
+
 <details>
 <summary>🛠️ IDA</summary>
 
