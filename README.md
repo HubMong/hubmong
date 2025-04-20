@@ -16,9 +16,9 @@
 <details>
 <summary>☕ Java</summary>
 
-- [Java 기초 문법 정리](https://velog.io/@m0ng/posts?tag=Java-Note)
-- [객체지향 프로그래밍(OOP)](https://velog.io/@m0ng/java-oop)
-- [예외 처리와 스트림](https://velog.io/@m0ng/java-exception-stream)
+- [Java 정리](https://velog.io/@m0ng/Java-%EC%A0%95%EB%A6%AC)
+- [Java 생성자](https://velog.io/@m0ng/Java-Note-%EC%83%9D%EC%84%B1%EC%9E%90)
+- [Java 메소드 오버로딩/오버라이딩 정리](https://velog.io/@m0ng/Java-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9)
 
 </details>
 
@@ -33,7 +33,8 @@
 <details>
 <summary>⚙ Assembly</summary>
 
-- [리버싱 준비 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+- [리버싱 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+- [리버싱 - DreamHack 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 
 </details>
 
@@ -43,12 +44,37 @@
 <details>
 <summary>🧰 기술</summary><br>
 
-[![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white)]()  
-[![Burp Suite](https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge&logoColor=white)]()  
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()  
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://velog.io/@m0ng/posts)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://velog.io/@m0ng/posts)
+<details>
+<summary>[![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white)]()</summary>
 
+- [IDA 설치 및 기본 사용법](https://velog.io/@m0ng/ida-basic)
+- [IDA로 함수 분석하는 법](https://velog.io/@m0ng/ida-function-tracing)
+
+</details>
+
+<details>
+<summary>[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F80000?style=for-the-badge&logoColor=white)]()</summary>
+
+- [Burp Suite 기본 세팅](https://velog.io/@m0ng/burp-basic)
+- [인터셉트와 리퀘스트 분석](https://velog.io/@m0ng/burp-intercept)
+
+</details>
+
+<details>
+<summary>[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()</summary>
+
+- [Wireshark 필터링 기초](https://velog.io/@m0ng/wireshark-filter)
+- [패킷 캡처 및 분석 실습](https://velog.io/@m0ng/wireshark-practice)
+
+</details>
+
+<details>
+<summary>[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://velog.io/@m0ng/posts)</summary>
+
+- [Spring 기초 입문](https://velog.io/@m0ng/spring-basic)
+- [의존성 주입(DI)과 컨테이너](https://velog.io/@m0ng/spring-di)
+
+</details>
 </details>
 
 
@@ -58,12 +84,19 @@
 * Java
 * Spring
 
-## 📁 프로젝트
-* CAPSTONE DESIGN - Pill ingredient analysis and nutritional recommendations review
+### 팀 프로젝트
+💊 [스마트 약통](https://velog.io/@m0ng/spring-basic)
+- **설명**: 약 성분 이미지 분석 및 사용자 맞춤 영양 성분 추천 시스템
+- **역할**: 백엔드 개발, 데이터 분석
+- **기술 스택**: 아두이노
+🔎 [냉장고 구현중..](https://velog.io/@m0ng/spring-basic)
+- **설명**: 자취생 및 음식을 만들기 어려워하는 사람들을 위한 냉장고 관리 어플
+- **역할**: 백엔드 개발, 데이터 분석
+- **기술 스택**: 자바, 안드로이드
 
 ## 📚 책 읽은 리스트
-* 리버싱 핵심 원리
-* 파이썬 데이터 분석 및 시각화
-* 명품 자바 에센셜
-* c# 프로그래밍
+* 리버싱 핵심 원리 - 리버싱의 기초 개념부터 심화 기법까지 단계별로 배울 수 있어 추천
+* 파이썬 데이터 분석 및 시각화 - 데이터 다루는 감각을 익히기에 유익
+* 이것이 자바다 - 자바에 입문하기에 좋은 책
+* c# 프로그래밍 - c#에 기본적인 개념에 대해서 파악하기 좋음
 
