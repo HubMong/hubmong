@@ -42,10 +42,13 @@
 
 
 <details>
+<summary>🧰 기술</summary>
+
+<details>
 <summary>🧰 기술</summary><br>
 
 <details>
-<summary>[![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white)]()</summary>
+<summary>🛠️ IDA</summary>
 
 - [IDA 설치 및 기본 사용법](https://velog.io/@m0ng/ida-basic)
 - [IDA로 함수 분석하는 법](https://velog.io/@m0ng/ida-function-tracing)
@@ -53,7 +56,7 @@
 </details>
 
 <details>
-<summary>[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F80000?style=for-the-badge&logoColor=white)]()</summary>
+<summary>🧪 Burp Suite</summary>
 
 - [Burp Suite 기본 세팅](https://velog.io/@m0ng/burp-basic)
 - [인터셉트와 리퀘스트 분석](https://velog.io/@m0ng/burp-intercept)
@@ -61,7 +64,7 @@
 </details>
 
 <details>
-<summary>[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()</summary>
+<summary>🌐 Wireshark</summary>
 
 - [Wireshark 필터링 기초](https://velog.io/@m0ng/wireshark-filter)
 - [패킷 캡처 및 분석 실습](https://velog.io/@m0ng/wireshark-practice)
@@ -69,7 +72,7 @@
 </details>
 
 <details>
-<summary>[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://velog.io/@m0ng/posts)</summary>
+<summary>🌱 Spring</summary>
 
 - [Spring 기초 입문](https://velog.io/@m0ng/spring-basic)
 - [의존성 주입(DI)과 컨테이너](https://velog.io/@m0ng/spring-di)
