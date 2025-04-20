@@ -11,7 +11,7 @@
 
 ## 💻 스킬
 <details>
-<summary>📚 언어</summary>
+<summary>📚 언어</summary><br>
 
 <div style="margin-left: 30rem">
 
