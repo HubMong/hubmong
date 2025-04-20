@@ -42,9 +42,6 @@
 
 
 <details>
-<summary>🧰 기술</summary>
-
-<details>
 <summary>🧰 기술</summary><br>
 
 <details>
