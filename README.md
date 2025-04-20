@@ -50,7 +50,7 @@
 <summary>🛠️ IDA</summary>
 
 - [IDA 설치 및 기본 사용법](https://velog.io/@m0ng/ida-basic)
-- [IDA로 함수 분석하는 법](https://velog.io/@m0ng/ida-function-tracing)
+- [IDA로 함수 분석하는 법](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 
 </details>
 
