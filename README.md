@@ -27,15 +27,18 @@
 
 - [C# 기본 문법](https://velog.io/@m0ng/posts)
 - [WinForm 예제](https://velog.io/@m0ng/posts)
-  
+
 </details>
 
 <details>
 <summary>⚙ Assembly</summary>
 
 - [리버싱 준비 - 어셈블리 기초](https://velog.io/@m0ng/posts?tag=reversing)
-  
+
 </details>
+
+</details> <!-- ✅ 이거 안 닫아줘서 문제가 생긴 거야 -->
+
 
 <details>
 <summary>🧰 기술</summary><br>
@@ -45,7 +48,9 @@
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()  
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://velog.io/@m0ng/posts)  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://velog.io/@m0ng/posts)
+
 </details>
+
 
 ## 🔎 관심 분야
 * Reversing
