@@ -13,6 +13,8 @@
 <details>
 <summary>📚 언어</summary>
 
+<div style="margin-left: 30rem">
+
 <details>
 <summary>☕ Java</summary>
 
@@ -37,7 +39,7 @@
 - [리버싱 - DreamHack 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 
 </details>
-
+</div>
 </details> <!-- ✅ 이거 안 닫아줘서 문제가 생긴 거야 -->
 
 
