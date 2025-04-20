@@ -87,7 +87,6 @@
 * 리버싱
 * 웹해킹
 * 자바
-* Spring
 
 ## 팀 프로젝트
 💊 [스마트 약통](https://velog.io/@m0ng/spring-basic)
