@@ -33,7 +33,7 @@
 <details>
 <summary>⚙ Assembly</summary>
 
-- [리버싱 준비 - 어셈블리 기초](https://velog.io/@m0ng/posts?tag=reversing)
+- [리버싱 준비 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 
 </details>
 
