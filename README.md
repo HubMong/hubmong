@@ -41,9 +41,9 @@
 
 <details>
 <summary>🧰 기술 </summary>
-[![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white)]
-[![Burp Suite](https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge&logoColor=white)]
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]
+[![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white)](https://velog.io/@m0ng/posts) 
+[![Burp Suite](https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge&logoColor=white)](https://velog.io/@m0ng/posts) 
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://velog.io/@m0ng/posts) 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://velog.io/@m0ng/posts) 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://velog.io/@m0ng/posts)
 
