@@ -27,8 +27,8 @@
 <details>
 <summary>🟣 C#</summary>
 
-- [C# 기본 문법](https://velog.io/@m0ng/posts)
-- [WinForm 예제](https://velog.io/@m0ng/posts)
+- [C# WinForm 계산기](https://velog.io/@m0ng/C-WinForms-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [C# 기본 문법](https://velog.io/@m0ng/C-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
 
 </details>
 
