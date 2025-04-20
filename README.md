@@ -44,7 +44,7 @@
 <details>
 <summary>🧰 기술</summary><br>
 
-<div style="margin-left: 1rem">
+<div style="margin-left: 3rem">
 
 <details>
 <summary>🛠️ IDA</summary>
@@ -77,6 +77,7 @@
 - [의존성 주입(DI)과 컨테이너](https://velog.io/@m0ng/spring-di)
 
 </details>
+</div>
 </details>
 
 
