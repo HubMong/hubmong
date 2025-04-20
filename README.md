@@ -37,9 +37,6 @@
   
 </details>
 
-</details>
-
-<details>
 <details>
 <summary>🧰 기술</summary><br>
 
