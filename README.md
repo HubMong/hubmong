@@ -76,7 +76,6 @@
 <summary>🌱 Spring</summary>
 
 - [Spring 기초 입문](https://velog.io/@m0ng/spring-basic)
-- [의존성 주입(DI)과 컨테이너](https://velog.io/@m0ng/spring-di)
 
 </details>
 </div>
