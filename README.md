@@ -40,7 +40,7 @@
 
 </details>
 </div>
-</details> <!-- ✅ 이거 안 닫아줘서 문제가 생긴 거야 -->
+</details> <!-- 언어 기술 -->
 
 
 <details>
@@ -52,7 +52,7 @@
 <summary>🛠️ IDA</summary>
 
 - [IDA 설치 및 기본 사용법](https://velog.io/@m0ng/ida-basic)
-- [IDA로 함수 분석하는 법](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
+- [IDA로 DreamHack 문제 풀기](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 
 </details>
 
@@ -79,7 +79,7 @@
 
 </details>
 </div>
-</details>
+</details> <!-- 프로그램 기술 -->
 
 
 ## 🔎 관심 분야
@@ -88,7 +88,7 @@
 * 자바
 
 ## 프로젝트
-🔎 [냉장고 구현중..](https://github.com/HubMong/Projecgo)
+🔎 [냉장고 진행중..](https://github.com/HubMong/Projecgo)
 - **설명**: 자취생 및 음식을 만들기 어려워하는 사람들을 위한 냉장고 관리 어플
 - **역할**: 백엔드 개발, 데이터 분석
 - **기술 스택**: 자바, 안드로이드
