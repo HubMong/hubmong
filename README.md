@@ -39,6 +39,14 @@
 - [리버싱 - DreamHack 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 
 </details>
+
+<details>
+<summary>⚙ WebHacking</summary>
+
+- [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+- [와샥](https://velog.io/@m0ng/DreamHack-rev-basic-2)
+
+</details>
 </div>
 </details> <!-- 언어 기술 -->
 
@@ -50,8 +58,7 @@
 
 <details>
 <summary>🛠️ IDA</summary>
-
-- [IDA 설치 및 기본 사용법](https://velog.io/@m0ng/ida-basic)
+  
 - [IDA로 DreamHack 문제 풀기](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 
 </details>
@@ -59,8 +66,8 @@
 <details>
 <summary>🧪 Burp Suite</summary>
 
-- [Burp Suite 기본 세팅](https://velog.io/@m0ng/burp-basic)
-- [인터셉트와 리퀘스트 분석](https://velog.io/@m0ng/burp-intercept)
+- [Burp Suite 기본 세팅](https://velog.io/@m0ng/Burp-Suite-%EC%84%A4%EC%B9%98)
+- [Burp Suite를 이용한 DreamHack 풀이](https://velog.io/@m0ng/burp-intercept)
 
 </details>
 
