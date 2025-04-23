@@ -43,7 +43,7 @@
 <details>
 <summary>⚙ WebHacking</summary>
 
-- [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+- [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
 - [와샥](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 
 </details>
