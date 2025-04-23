@@ -81,7 +81,7 @@
 <details>
 <summary>🌱 Spring</summary>
 
-- [Spring 기초 입문 추가 예정](https://velog.io/@m0ng/spring-basic)
+- [Spring 기초 입문 (추가 예정)](https://velog.io/@m0ng/spring-basic)
 
 </details>
 </div>
