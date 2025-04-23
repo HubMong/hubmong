@@ -44,7 +44,6 @@
 <summary>⚙ WebHacking</summary>
 
 - [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
-- [와샥](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 
 </details>
 </div>
@@ -74,8 +73,8 @@
 <details>
 <summary>🌐 Wireshark</summary>
 
-- [Wireshark 필터링 기초](https://velog.io/@m0ng/wireshark-filter)
-- [패킷 캡처 및 분석 실습](https://velog.io/@m0ng/wireshark-practice)
+- [Wireshark 필터링 기초(추가 예정)](https://velog.io/@m0ng/wireshark-filter)
+- [패킷 캡처 및 분석 실습(추가 예정)](https://velog.io/@m0ng/wireshark-practice)
 
 </details>
 
