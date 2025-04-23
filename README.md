@@ -66,7 +66,7 @@
 <summary>🧪 Burp Suite</summary>
 
 - [Burp Suite 기본 세팅](https://velog.io/@m0ng/Burp-Suite-%EC%84%A4%EC%B9%98)
-- [Burp Suite를 이용한 DreamHack 풀이](https://velog.io/@m0ng/burp-intercept)
+- [Burp Suite를 이용한 DreamHack 풀이](https://velog.io/@m0ng/Burp-Suite-cookies-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
 
 </details>
 
