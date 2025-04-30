@@ -11,10 +11,25 @@
 
 ## 💻 스킬
 <details>
-<summary>📚 언어</summary><br>
+<summary>📚 기술</summary><br>
 
 <div style="margin-left: 30rem">
 
+<details>
+<summary>⚙ Assembly</summary>
+
+- [리버싱 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+- [리버싱 - DreamHack 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
+- [IA-32 레지스터 정리](https://velog.io/@m0ng/DreamHack-rev-basic-2)
+
+</details>
+
+<details>
+<summary>⚙ WebHacking</summary>
+
+- [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
+
+</details>
 <details>
 <summary>☕ Java</summary>
 
@@ -31,27 +46,12 @@
 - [C# 기본 문법](https://velog.io/@m0ng/C-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
 
 </details>
-
-<details>
-<summary>⚙ Assembly</summary>
-
-- [리버싱 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
-- [리버싱 - DreamHack 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
-
-</details>
-
-<details>
-<summary>⚙ WebHacking</summary>
-
-- [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
-
-</details>
 </div>
 </details> <!-- 언어 기술 -->
 
 
 <details>
-<summary>🧰 기술</summary><br>
+<summary>🧰 도구</summary><br>
 
 <div style="margin-left: 30rem">
 
@@ -101,7 +101,7 @@
 
 ## 📚 책 읽은 리스트
 * 리버싱 핵심 원리 - 리버싱의 기초 개념부터 심화 기법까지 단계별로 배울 수 있어 추천
-* 파이썬 데이터 분석 및 시각화 - 데이터 다루는 감각을 익히기에 유익
+* 리버스 엔지니어링 바이블 - 다양한 리버싱 기법을 이해 하기 가능
 * 이것이 자바다 - 자바에 입문하기에 좋은 책
 * c# 프로그래밍 - c#에 기본적인 개념에 대해서 파악하기 좋음
 
