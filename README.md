@@ -16,11 +16,11 @@
 <div style="margin-left: 30rem">
 
 <details>
-<summary>⚙ Assembly</summary>
+<summary>⚙ Reversing</summary>
 
 - [리버싱 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 - [리버싱 - DreamHack 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
-- [IA-32 레지스터 정리](https://velog.io/@m0ng/DreamHack-rev-basic-2)
+- [IA-32 레지스터 정리](https://velog.io/@m0ng/IA-32-%EC%8A%A4%ED%83%9D-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC)
 
 </details>
 
