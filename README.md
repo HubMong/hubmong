@@ -74,16 +74,9 @@
 <summary>🌐 Wireshark</summary>
 
 - [Wireshark 필터링 기초](https://velog.io/@m0ng/Wireshark-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B8%B0%EC%B4%88-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
-- [패킷 캡처 및 분석 실습(추가 예정)](https://velog.io/@m0ng/wireshark-practice)
 
 </details>
 
-<details>
-<summary>🌱 Spring</summary>
-
-- [Spring 기초 입문 (추가 예정)](https://velog.io/@m0ng/spring-basic)
-
-</details>
 </div>
 </details> <!-- 프로그램 기술 -->
 
