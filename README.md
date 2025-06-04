@@ -1,4 +1,4 @@
-<h3 class="heading-element" dir="auto">보안의 퍼즐을 풀어가는</h3>
+<h3 class="heading-element" dir="auto">보안의 퍼즐을 풀어 해결하는 개발자</h3>
 안녕하세요. 정보보안 전문가를 꿈꾸며, Java 웹 개발에도 관심이 많은 김상연입니다.<br> 
 특히 정보보안 분야 중 리버싱에 큰 흥미를 가지고 있으며, 파일 분석을 통해 프로그램의 동작 원리를 이해하고,<br> 
 숨겨진 취약점을 찾아내는 과정에서 마치 퍼즐을 푸는 듯한 짜릿함을 느낍니다.<br>
@@ -7,7 +7,8 @@
 
 ## 🎓 교육 🎓
 * 2016.03 ~ 2019.02 서울여자대학교 정보보호 영재교육원 이수
-* 2019.03 ~ 서일대학교 소프트웨어 공학
+* 2019.03 ~ 서일대학교 소프트웨어학과 재학중
+* 2025.03 ~ 대우능력개발원 - 클라우드기반 웹개발자 이수중
 
 ## 💻 스킬
 <details>
@@ -21,8 +22,9 @@
 - [리버싱 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 - [IA-32 레지스터 정리](https://velog.io/@m0ng/IA-32-%EC%8A%A4%ED%83%9D-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC)
 - [리버싱 - rev-basic-2풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
-- [리버싱 - rev-basic-3풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
-- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
+- [리버싱 - rev-basic-3풀이](https://velog.io/@m0ng/DreamHack-rev-basic-3)
+- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/DreamHack-rev-basic-4)
+- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/DreamHack-rev-basic-5)
 
 </details>
 
@@ -84,12 +86,11 @@
 
 
 ## 🔎 관심 분야
-* 리버싱
-* 웹해킹
-* 자바
+* 리버싱 – 바이너리 분석 및 디버깅 기반의 보안 기술
+* 웹해킹 – 웹 취약점 탐지 및 보안 분석
 
-## 프로젝트
-🔎 [냉장고 진행중..](https://github.com/HubMong/Projecgo)
+## 📁 프로젝트
+🔎 [냉장GO 프로젝트 진행중..](https://github.com/HubMong/Projecgo)
 - **설명**: 자취생 및 음식을 만들기 어려워하는 사람들을 위한 냉장고 관리 어플
 - **역할**: 백엔드 개발, 데이터 분석
 - **기술 스택**: 자바, 안드로이드
@@ -98,8 +99,6 @@
 
 본 저장소는 다양한 진로탐색, IT 교육 이수, IT역량 개발 활동을 정리한 증빙 포트폴리오입니다.  
 
-## 📁 카테고리
-
 - [`IT 팀 프로젝트 비교과`](https://github.com/HubMong/SkillSt)  
   IT의 역량을 늘리기 위해서 학생들과 함께 비교과 시간에 프로그램 개발
   
@@ -107,16 +106,18 @@
   직업선호도 검사 및 진로 특강 후기
 
 - [`언택트 취업 특강`](https://github.com/HubMong/Study1/tree/main)  
-  온라인 취업 준비 프로그램 참여
+  온라인 취업 준비 프로그램 참여 - 비대면 커뮤니케이션, 온라인 직무 이해
 
 - [`사이버진로교육 특강`](https://github.com/HubMong/study2/tree/main)  
-  사이버 교육 특강
+  (요즘 면접, 실무면접 노하우) - 최신 실무 중심 면접 트렌드와 질문 유형 분석, 답변 실전 팁<br>
+  (면접관을 사로잡는 면접답변 전략) - STAR기법 기반의 효과적인 자기소개, 경험 기반 답변 전략<br>
+  (나에게 맞는 직업정보 탐색하기) - 적성 기반의 직무 탐색 방법, 워크넷 등 진로 정보 활용법<br>
 
 - [`AI 엑스포 활동`](https://github.com/HubMong/AIAex)  
   AI 엑스포 박람회 활동
 
 
-## 📚 책 읽은 리스트
+## 📚 기술 서적 독후 목록
 * 리버싱 핵심 원리 - 리버싱의 기초 개념부터 심화 기법까지 단계별로 배울 수 있어 추천
 * 리버스 엔지니어링 바이블 - 다양한 리버싱 기법을 이해 하기 가능
 * 이것이 자바다 - 자바에 입문하기에 좋은 책
