@@ -107,10 +107,10 @@
 - [`언택트 취업 특강`](https://github.com/HubMong/Study1/tree/main)  
   온라인 취업 준비 프로그램 참여
 
-- [`사이버진로교육 특강`](./사이버진로체험)  
+- [`사이버진로교육 특강`](https://github.com/HubMong/study2/tree/main)  
   사이버 교육 특강
 
-- [`AI 엑스포 활동`](./박람회-및-기타활동)  
+- [`AI 엑스포 활동`](https://github.com/HubMong/AIAex)  
   AI 엑스포 박람회 활동
 
 
