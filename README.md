@@ -24,12 +24,12 @@
 - [리버싱 - rev-basic-2풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 - [리버싱 - rev-basic-3풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 - [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/DreamHack-rev-basic-4)
-- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/DreamHack-rev-basic-5)
+- [리버싱 - rev-basic-5풀이](https://velog.io/@m0ng/DreamHack-rev-basic-5)
 
 </details>
 
 <details>
-<summary>⚙ WebHacking</summary>
+<summary>⚙ Hacking</summary>
 
 - [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
 
