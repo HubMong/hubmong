@@ -23,8 +23,7 @@
 - [IA-32 레지스터 정리](https://velog.io/@m0ng/IA-32-%EC%8A%A4%ED%83%9D-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC)
 - [리버싱 - rev-basic-2풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
 - [리버싱 - rev-basic-3풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
-- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/DreamHack-rev-basic-4)
-- [리버싱 - rev-basic-5풀이](https://velog.io/@m0ng/DreamHack-rev-basic-5)
+- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-4)
 
 </details>
 
