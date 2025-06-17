@@ -11,78 +11,14 @@
 * 2025.03 ~ 대우능력개발원 - 클라우드기반 웹개발자 이수중
 
 ## 💻 스킬
-<details>
-<summary>📚 기술</summary><br>
 
-<div style="margin-left: 30rem">
+🧩 [전체 기술 정리 보기](https://github.com/HubMong/studyMain)
 
-<details>
-<summary>⚙ Reversing</summary>
-
-- [리버싱 - 어셈블리 기초](https://velog.io/@m0ng/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4-%EC%A3%BC%EC%9A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
-- [IA-32 레지스터 정리](https://velog.io/@m0ng/IA-32-%EC%8A%A4%ED%83%9D-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC)
-- [리버싱 - rev-basic-2풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
-- [리버싱 - rev-basic-3풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
-- [리버싱 - rev-basic-4풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-4)
-
-</details>
-
-<details>
-<summary>⚙ Hacking</summary>
-
-- [간단한 Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
-
-</details>
-<details>
-<summary>☕ Java</summary>
-
-- [Java 정리](https://velog.io/@m0ng/Java-%EC%A0%95%EB%A6%AC)
-- [Java 생성자](https://velog.io/@m0ng/Java-Note-%EC%83%9D%EC%84%B1%EC%9E%90)
-- [Java 메소드 오버로딩/오버라이딩 정리](https://velog.io/@m0ng/Java-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9)
-
-</details>
-
-<details>
-<summary>🟣 C#</summary>
-
-- [C# WinForm 계산기](https://velog.io/@m0ng/C-WinForms-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [C# 기본 문법](https://velog.io/@m0ng/C-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
-
-</details>
-</div>
-</details> <!-- 언어 기술 -->
-
-
-<details>
-<summary>🧰 도구</summary><br>
-
-<div style="margin-left: 30rem">
-
-<details>
-<summary>🛠️ IDA</summary>
-  
-- [IDA로 DreamHack 문제 풀기](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
-
-</details>
-
-<details>
-<summary>🧪 Burp Suite</summary>
-
-- [Burp Suite 기본 세팅](https://velog.io/@m0ng/Burp-Suite-%EC%84%A4%EC%B9%98)
-- [Burp Suite를 이용한 DreamHack 풀이](https://velog.io/@m0ng/Burp-Suite-cookies-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
-
-</details>
-
-<details>
-<summary>🌐 Wireshark</summary>
-
-- [Wireshark 필터링 기초](https://velog.io/@m0ng/Wireshark-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B8%B0%EC%B4%88-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
-
-</details>
-
-</div>
-</details> <!-- 프로그램 기술 -->
-
+- ⚙ Reversing: IA-32, 어셈블리, 문제 풀이 등
+- ⚙ Hacking: Cookies, BurpSuite 활용 등
+- ☕ Java: 객체지향 정리, 생성자, 오버로딩/오버라이딩 등
+- 🟣 C#: 계산기 프로젝트, 기본 문법 등
+- 🛠️ 도구: IDA, Burp Suite, Wireshark 등
 
 ## 🔎 관심 분야
 * 리버싱 – 바이너리 분석 및 디버깅 기반의 보안 기술
