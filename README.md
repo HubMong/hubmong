@@ -15,7 +15,7 @@
 🧩 [전체 기술 정리 보기](https://github.com/HubMong/studyMain)
 
 - ⚙ Reversing: IA-32, 어셈블리, 문제 풀이 등
-- ⚙ Hacking: Cookies, BurpSuite 활용 등
+- ⚙ CTF: Cookies, webhacking 등
 - ☕ Java: 객체지향 정리, 생성자, 오버로딩/오버라이딩 등
 - 🟣 C#: 계산기 프로젝트, 기본 문법 등
 - 🛠️ 도구: IDA, Burp Suite, Wireshark 등
